@@ -8,7 +8,7 @@ const Page = () => {
     <div className='rissk mt-20 mx-3 px-3'>
       <h1 className='text-center font-bold text-2xl pt-3'>Risk Warning</h1>
       <ul>
-        <li className='mb-3 text-[gray]'>The trading of goods and products, real or virtual, as well as virtual currencies involves significant risk. Prices can and do fluctuate on any given day. Due to such price fluctuations, you may increase or lose value in your assets at any given moment. Any currency - virtual or not - may be subject to large swings in value and may even become worthless. There is an inherent risk that losses will occur as a result of buying, selling or trading anything on a market.</li>
+        <li className='mb-3 text-[gray]'>The trading of goods and products, real or virtual, as well as virtual currencies involves significant risk. Prices can and do fluctuate on any given day. Due to such price fluctuations, you may increase or lose value in your assets at any given moment. Any currency virtual or not may be subject to large swings in value and may even become worthless. There is an inherent risk that losses will occur as a result of buying, selling or trading anything on a market.</li>
       </ul>
       <ul>
         <li className='mb-3 text-[gray]'>Bitcoin trading also has special risks not generally shared with official currencies or goods or commodities in a market. Unlike most currencies, which are backed by governments or other legal entities, or by commodities such as gold or silver, Bitcoin is a unique kind of "fiat" currency, backed by technology and trust. There is no central bank that can take corrective measure to protect the value of Bitcoins in a crisis or issue more currency.</li>
