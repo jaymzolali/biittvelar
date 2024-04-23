@@ -9,7 +9,7 @@ const Page = () => {
     return (
         <div>
             <h1 className='mt-20 text-center font-bold text-2xl mb-3'>About us</h1>
-            <div className='about_1 mx-3 my5'>
+            {/* <div className='about_1 mx-3 my5'>
                 <div className='about_1-para px-3'>
                     <h1 className=' font-bold text-2xl pt-3 my-3'>About company</h1>
                     <p>Our company begins its history from June 2018, when it was developed. Recognizing the importance of Bitcoin from the onset, and understanding that the exchange is the most critical part of the cryptocurrency ecosystem, it is governed by a board of directors and this makes it safe. Since then, the company has grown by leaps and bounds with hundreds of employees spanning the globe. We're a diverse group of thinkers and doers that are dedicated to making cryptocurrency available and accessible to the world and enabling people from all walks of life to invest in their independence. We believe that everyone should have the freedom to earn, hold, spend, share and give their money - no matter who you are or where you come from.</p>
@@ -46,7 +46,7 @@ const Page = () => {
                     allowfullscreen="" 
                     loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-            </div>
+            </div> */}
             <Footer />
         </div>
     )

@@ -5,7 +5,7 @@ import './risk.css'
 const Page = () => {
   return (
     <div>
-    <div className='rissk mt-20 mx-3 px-3'>
+    {/* <div className='rissk mt-20 mx-3 px-3'>
       <h1 className='text-center font-bold text-2xl pt-3'>Risk Warning</h1>
       <ul>
         <li className='mb-3 text-[gray]'>The trading of goods and products, real or virtual, as well as virtual currencies involves significant risk. Prices can and do fluctuate on any given day. Due to such price fluctuations, you may increase or lose value in your assets at any given moment. Any currency virtual or not may be subject to large swings in value and may even become worthless. There is an inherent risk that losses will occur as a result of buying, selling or trading anything on a market.</li>
@@ -26,7 +26,7 @@ const Page = () => {
         <li className='mb-3 text-[gray]'>You should carefully assess whether your financial situation and tolerance for risk is suitable for buying, selling or trading Bitcoins.</li>
       </ul>
       <div className="risk-img"></div>
-    </div>
+    </div> */}
     <Footer />
     </div>
   )
